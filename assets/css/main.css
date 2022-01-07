@@ -2445,7 +2445,6 @@ input, select, textarea {
 					#images {
 						display:grid;
 						grid-template-columns: 20% 20%;
-						grid-template-rows: 20% 20% 20% 20%;
 						grid-gap:3%
 						
 					}
@@ -2454,6 +2453,8 @@ input, select, textarea {
 						height: 80px;
 						padding: 2% 0%;
 					}
+
+
 
 	}
 
