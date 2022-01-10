@@ -281,6 +281,15 @@ input, select, textarea {
 				}
 
 		}
+		@media screen and (max-width:376px) {
+			#gireesh{
+				display: flex;
+				color: white;
+				flex-wrap: nowrap;
+				justify-content: space-between;
+			}
+		}
+	
 
 /* Row */
 
@@ -2480,3 +2489,19 @@ input, select, textarea {
 #icon > a{
 	color: black;
 }
+
+@media only screen and (min-width:980px) and (max-width:1300px){
+	#kumar {
+		line-height: 50px;
+	}
+
+}
+/* #gowd {
+	display: grid;
+	grid-template-columns: repeat(3, 300px);
+	grid-template-rows: (400px, auto);
+} */
+
+/* #gowd > div > article > p{
+	line-height: 15px;
+} */
